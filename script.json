@@ -1,0 +1,11 @@
+[
+    {
+        "ftp"     : "ftp-brute,ftp-anon",
+        "ssl"     : "ssl-heartbleed,ssl-poodle",
+        "oracle"  : "brute and oracle-*",
+        "mssql"   : "ms-sql-brute",
+        "postgres": "pgsql-brute",
+        "irc"     : "irc-brute,irc-sasl-brute"
+
+    }
+]
